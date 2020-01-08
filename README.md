@@ -131,7 +131,3 @@ Your final product will be assessed on the following metrics:
 * Treat this as a serious endeavor! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst. 
 
 * Good luck!
-
-### Copyright
-
-Data Boot Camp (C) 2019. All Rights Reserved.
